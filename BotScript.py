@@ -9,7 +9,7 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # ==================== НАСТРОЙКИ БОТА ====================
-ROLE_ID = 1563852985509879849  
+ROLE_ID = 1528038329143263307 
 BOT_TOKEN = "MTU2Mzg0MzE3MTYyMzEwODczOA.GD4EPQ.tmc8RiP3RIz_PoDCrP3EfUA-So9FCkr3Qt0dDM"
 # ========================================================
 
